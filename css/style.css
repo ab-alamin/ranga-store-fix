@@ -25,6 +25,7 @@ body {
   padding: 10px 50px;
   border-radius: 25px;
   margin-left: 20px;
+
 }
 #all-products {
   display: grid;
@@ -37,6 +38,7 @@ body {
   justify-content: center;
 }
 .single-product {
+  background-color:rgb(182, 124, 124);
   padding: 10px;
   transition: 0.6s;
 }
